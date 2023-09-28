@@ -12,11 +12,10 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
         String a = "А роза упала на лапу Азора";
         String b = "Ночевала тучка золотая";
 
         System.out.println(isPalindrome(b));
     }
-
-
 }
